@@ -28,24 +28,13 @@ This repo includes:
 
 
 
-## Architecture After Hardening / Security Controls
+## Sample of Statement of Applicability (SoA)
 ![image](https://github.com/user-attachments/assets/78ad5e2f-6b61-4e67-ba78-de60e47d5b32)
 
 
 
-The architecture of the mini honeynet in Azure consists of the following components:
 
-- Virtual Network (VNet)
-- Network Security Group (NSG)
-- Virtual Machines (2 windows, 1 linux)
-- Log Analytics Workspace
-- Azure Key Vault
-- Azure Storage Account
-- Microsoft Sentinel
 
-For the "BEFORE" metrics, all resources were originally deployed, exposed to the internet. The Virtual Machines had both their Network Security Groups and built-in firewalls wide open, and all other resources are deployed with public endpoints visible to the Internet; aka, no use for Private Endpoints.
-
-For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL traffic with the exception of my admin workstation, and all other resources were protected by their built-in firewalls as well as Private Endpoint
 
 ## Attack Maps Before Hardening / Security Controls
 [NSG Allowed Inbound Malicious Flows]![nsg-malicious-allowed-in ](https://github.com/user-attachments/assets/d9cfa607-efe3-47d5-8c20-66f02c64def9)
