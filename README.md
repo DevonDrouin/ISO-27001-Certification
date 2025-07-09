@@ -1,5 +1,6 @@
 # ISO/IEC-27001-Certification
-![image](https://github.com/user-attachments/assets/6272db93-d3f0-4a5a-be6d-06e997713555)
+![image](https://github.com/user-attachments/assets/0a432bbc-de26-428e-8dd8-4c40d5a7229e)
+
 
 # GRC Portfolio - ISO/IEC 27001:2022
 
@@ -21,8 +22,8 @@ This repo includes:
 - ISMS 
 - A sample Statement of Applicability (SoA)
 - Risk treatment plan template
-## Disclaimer: Screenshots were taken for only certain documentation. All the ISO documents were created for this write-up but not all was presented.  
-
+## Disclaimer: Screenshots were taken for only certain documentation. All the ISO documents were created for this write-up but not all were presented within this repository.
+ 
 # ISMS 
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/2fc57698-7ddb-4d49-985a-8af04df773af" />
 
@@ -46,9 +47,9 @@ This repo includes:
 ## Conclusion 
 
 - Understanding how ISO/IEC 27001 formalizes risk-based thinking gave me a deeper appreciation of aligning business objectives with security goals.
-- GRC is not just about compliance - it's about operational resilience and informed decision-making.
+- GRC is not just about compliance! it's about operational resilience and informed decision-making.
 - Writing actual policy documents made me more comfortable communicating security expectations clearly.
 
 
 
-#### Not every document needed for an ISO Certification was uploaded.
+
